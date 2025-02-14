@@ -2,19 +2,26 @@ h1 {
 text-align: center;
 color: #32a852;
 font-family: 'Courier New', Courier, monospace;
-font-size: 150px;
+font-size: 100px;
 font-weight: bold;
+margin-left: 200px;
+margin-right: 200px;
+padding: 26px;
+background-color: rgb(184, 230, 181);
 }
 
 .link{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 75px;
+    font-size: 35px;
     text-align: center;
     color: #32a852;
     font-weight: lighter;
+    background-color: rgb(217, 236, 216);
+    padding: 16px;
 }
 
 .list {
     text-align: center;
     color: white;
+    margin-top: 50px;
 }
